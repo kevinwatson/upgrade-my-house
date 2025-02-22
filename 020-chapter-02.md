@@ -17,7 +17,7 @@ Setting up a movie for slow playback involves a few steps.
 #### Hardware
 
 * Screen: A TV or another screen like a desktop monitor
-* Computer: A desktop, laptop or Raspberry PI
+* Computer: A desktop, laptop or a Raspberry PI
 
 #### Video Files
 
