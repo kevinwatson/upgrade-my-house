@@ -6,18 +6,22 @@ To some, movies are a major part of their life. They have their favorite franchi
 
 ## Movies as Framed Art
 
-When you sit down and watch a movie, it's typically playing at a frame rate between 24 and 60 frames per second. Your brain perceives that as physical motion. Movies are an art form that consist of both video and audio. What if you could convert your favorite movie to an art piece in your home? This is possible by slowing down the frame rate and playing it back one frame at a time.
+When you watch a movie, it's typically playing at a frame rate between 24 and 60 frames per second. Your brain perceives this rapid changing of frames as physical motion. Some would consider movies as a form of art and if you enjoy movies, you're probably one of them. What if you could convert your favorite movie to an static art piece in your home? This is possible by playing back the video but slowing down the frame rate to one frame at a time.
 
-I wouldn't recommend watching new movies this way, but for movies you and your family have seen many times, it can become a centerpiece in your living room or family room. As the movie plays back one frame at a time, you might notice details that you never knew were there. Of course you lose the audio, but if it's a movie you're familiar  Unlike framed art, the movie will eventually reach its end. For a 1 1/2 hour movie, it can take about 2 full days to play from start to end.
+I wouldn't recommend watching new movies this way, but for movies you and your family have seen many times, it can become a centerpiece in your family room. As the movie slowly plays, you might notice details that you never noticed before. Of course by playing it back in slow motion you lose the audio, but if it's a movie you're familiar with, you can probably quote each scene already.
+
+Unlike framed art, the movie, no matter how slow it plays, will eventually reach its end. For a 1 1/2 hour movie, that could be about 2 full days from start to end depending on its playback speed.
 
 ### Slow Playback Setup
 
-Setting up a movie for slow playback involves a few steps.
+Setting up a movie for slow playback involves a few steps. You'll need a screen, a computer, software, and the movie files. Let's first review the hardware.
 
 #### Hardware
 
 * Screen: A TV or another screen like a desktop monitor
 * Computer: A desktop, laptop or a Raspberry PI
+
+The computer will need to have its sleep mode disabled. A Raspberry PI is a good choice because of its low power usage.
 
 #### Video Files
 
