@@ -39,3 +39,39 @@ The VLC Player https://www.videolan.org app can play back videos at a slow frame
 1. Click the 'Toggle the video in fullscreen' button to expand to fill the screen and hide the playback controls
 
 More info with screenshots can be found here: https://superuser.com/a/782409
+
+## Streaming
+
+Years ago movie lovers collected VHS tapes, Videodiscs, DVDs, Blu-Rays and other medium and proudly display them on shelves next to their TVs. With the invention of streaming platforms, most people have stopped buying medium and started subscribing to all you can eat offerings that are available at the click of a button. The convenience of readily-available movies and TV shows and high-speed Internet to the home has largely stopped some from purchasing discs.
+
+While streaming has many benefits, it also has a number of downsides. Some include cost (some say they now pay more subscribing to various streaming services than they paid when they had cable TV), rotating catalogs (where content is only available for a limited time), and advertisements (often the same ones repeating over and over again). For households that watch a lot of streaming content, they can also run into data caps that can turn into additional overage fees each month.
+
+### Self Hosting
+
+Hosting your own streaming service is an option. The advantages for self-hosting include no advertisements, no tracking and no data cap limits. No logins are required. You can play it back on nearly any device and download the files for offline viewing. The disadvantages are that your library will become stale without some work. The best of both worlds is to self host the movies you already own and use online streaming services for movies and TV shows you don't own.
+
+While there are many ways to set up self hosting, here's how I set it up in my home.
+
+#### Hardware
+
+1. A server (it could be a PC or Mac)
+1. DVD and Blu-Ray drives
+1. All of your DVDs and Blu-Rays
+1. Optional: A separate computer (laptop or desktop) with a Blu-Ray drive (could be an external drive)
+
+#### Software
+
+1. Linux (Ubuntu is my flavor of choice) to host network shares and DLNA services
+1. MiniDLNA to stream to your TVs and other devices https://help.ubuntu.com/community/MiniDLNA
+1. MakeMKV to copy DVDs and Blu-Ray discs https://www.makemkv.com
+
+#### Setup
+
+DLNA https://www.dlna.org is a standard that many home devices such as TVs support that can be used to view content on remote devices. I use an open source project named MiniDLNA that will serve up the videos using this standard to stream video to our TVs in the house.
+
+Here are the steps I followed to get a streaming box set up in my home.
+
+1. Install Linux on the computer (which will act as a server)
+1. Install MiniDLNA
+1. Set up Samba shares so you can copy the video files to and from the server
+
