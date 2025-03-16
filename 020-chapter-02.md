@@ -64,14 +64,20 @@ While there are many ways to set up self hosting, here's how I set it up in my h
 1. Linux (Ubuntu is my flavor of choice) to host network shares and DLNA services
 1. MiniDLNA to stream to your TVs and other devices https://help.ubuntu.com/community/MiniDLNA
 1. MakeMKV to copy DVDs and Blu-Ray discs https://www.makemkv.com
+1. ffmpeg to convert the mkv files to mp4 format
 
 #### Setup
 
-DLNA https://www.dlna.org is a standard that many home devices such as TVs support that can be used to view content on remote devices. I use an open source project named MiniDLNA that will serve up the videos using this standard to stream video to our TVs in the house.
+DLNA https://www.dlna.org is a standard many home devices such as TVs support that can be used to view content on remote devices. I use an open source project named MiniDLNA that serves up the videos using this standard to our household TVs.
 
 Here are the steps I followed to get a streaming box set up in my home.
 
 1. Install Linux on the computer (which will act as a server)
-1. Install MiniDLNA
+1. Install MiniDLNA https://help.ubuntu.com/community/MiniDLNA
 1. Set up Samba shares so you can copy the video files to and from the server
+1. Copy movies to the server
+1. Enjoy!
 
+## Wrap-up
+
+Entertainment in the form of TV or movies can and should be shared with your family in your home. Frame-by-frame display is one way to relive the experience and discover new things about your favorite films. Self hosting your movie collection provides easy access to your library. This easy access allows you to quickly pull up and enjoy movies without commercials, rental fees or buffering.
