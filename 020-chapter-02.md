@@ -78,6 +78,8 @@ Here are the steps I followed to get a streaming box set up in my home.
 1. Copy movies to the server
 1. Enjoy!
 
+MiniDLNA works great for devices (TVs, set top boxes, etc) that support that protocol. Other devices, such as iPads, iPhones, Android devices, etc might not support DLNA out of the box, but they can connect to Samba shares. On my iPad I use the Files app to connect to a server and play the files directly off of the shares with the built in video player. The downside is that it doesn't remember where you were if you stop the video and come back later, but it is convenient for watching ripped TV shows and other short videos.
+
 ## Wrap-up
 
 Entertainment in the form of TV or movies can and should be shared with your family in your home. Frame-by-frame display is one way to relive the experience and discover new things about your favorite films. Self hosting your movie collection provides easy access to your library. This easy access allows you to quickly pull up and enjoy movies without commercials, rental fees or buffering.
