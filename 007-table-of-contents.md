@@ -15,5 +15,8 @@
 * [Chapter 5 - Surveillance](010-chapter-01.md)
   * Introduction
   * Resources
+* [Chapter 6 - Lighting](060-chapter-06.md)
+  * Introduction
+  * Resources
 
 [Next >>](010-chapter-01.md)
