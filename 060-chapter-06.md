@@ -20,9 +20,9 @@ Permanent lighting can be automated with timers. We have white highlights in the
 
 #### Patterns
 
-Many permanent lighting options have the option to create your own patterns and color schemes. Here are some that I've created for my home.
+Many permanent lighting options have the option to create your own patterns and color schemes. Here are a few that I've created for my home.
 
-* Utah State University
+Utah State University
 
 |Count|Color|RGB|Hexadecimal|
 |---|---|---|---|
@@ -31,14 +31,14 @@ Many permanent lighting options have the option to create your own patterns and 
 |2|White|255,255,255|#FFFFFF|
 |2|Black|0,0,0|#000000|
 
-* Green Bay Packers
+Green Bay Packers
 
 |Count|Color|RGB|Hexadecimal|
 |---|---|---|---|
 |2|Dark Green|24,48,40|#203731|
 |2|Gold|255,184,28|#FFB612|
 
-* Christmas
+Christmas
 
 |Count|Color|RGB|Hexadecimal|
 |---|---|---|---|
