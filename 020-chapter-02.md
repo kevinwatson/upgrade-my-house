@@ -1,4 +1,4 @@
-### Chapter 2 - Movie Lovers
+### Chapter 2 - Movies and TV
 
 ## Introduction
 
