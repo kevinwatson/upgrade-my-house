@@ -54,4 +54,5 @@ Christmas
 |2|Red|255,0,0|#FF0000|
 |2|Gold|255,184,28|#FFB612|
 
+[Next >>](070-chapter-07.md)
 

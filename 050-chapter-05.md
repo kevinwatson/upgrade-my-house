@@ -16,3 +16,5 @@ Setting up surveillance cameras is also an option for your home. You can install
 
 ## Resources
 
+[Next >>](060-chapter-06.md)
+

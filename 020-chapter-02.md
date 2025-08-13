@@ -83,3 +83,6 @@ MiniDLNA works great for devices (TVs, set top boxes, etc) that support that pro
 ## Wrap-up
 
 Entertainment in the form of TV or movies can and should be shared with your family in your home. Frame-by-frame display is one way to relive the experience and discover new things about your favorite films. Self hosting your movie collection provides easy access to your library. This easy access allows you to quickly pull up and enjoy movies without commercials, rental fees or buffering.
+
+[Next >>](030-chapter-03.md)
+
