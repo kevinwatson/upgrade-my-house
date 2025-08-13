@@ -14,7 +14,5 @@ The next time you enter a restaurant or office building, look up at the ceiling.
 
 Setting up surveillance cameras is also an option for your home. You can install cameras to capture events both inside and outside of your home. You can access these cameras remotely from your laptop or phone, or at home from your Amazon or Google device.
 
-## Resources
-
 [Next >>](060-chapter-06.md)
 

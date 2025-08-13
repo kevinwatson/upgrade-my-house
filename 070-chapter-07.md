@@ -10,7 +10,5 @@ The garage door conceals your possessions from the neighbors. It is a movable wa
 
 Modern garage door openers can also alert your phone or watch when the door opens or closes. This is useful to monitor when your kids have arrived home from school.
 
-## Resources
-
 [Next >>](080-chapter-08.md)
 

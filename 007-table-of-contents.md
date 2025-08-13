@@ -2,13 +2,15 @@
 
 * [Chapter 1 - The Modern House](010-chapter-01.md)
   * Introduction
-  * Resources
 * [Chapter 2 - Movies and TV](020-chapter-02.md)
   * Introduction
-  * Resources
+  * Movies as Framed Art
+  * Streaming
+  * Wrap-up
 * [Chapter 3 - Audio](010-chapter-01.md)
   * Introduction
-  * Resources
+  * Doorbell Cameras
+  * Surveillance Cameras
 * [Chapter 4 - Networks](010-chapter-01.md)
   * Introduction
   * Resources
@@ -17,9 +19,10 @@
   * Resources
 * [Chapter 6 - Lighting](060-chapter-06.md)
   * Introduction
-  * Resources
+  * Internal Lighting
+  * External Lighting
 * [Chapter 7 - Garage](070-chapter-07.md)
   * Introduction
-  * Resources
+  * Garage Door
 
 [Next >>](010-chapter-01.md)
