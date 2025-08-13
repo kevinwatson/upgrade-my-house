@@ -6,7 +6,7 @@
 * [Chapter 2 - Movies and TV](020-chapter-02.md)
   * Introduction
   * Resources
-* [Chapter 3 - Audiophiles](010-chapter-01.md)
+* [Chapter 3 - Audio](010-chapter-01.md)
   * Introduction
   * Resources
 * [Chapter 4 - Networks](010-chapter-01.md)
