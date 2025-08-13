@@ -9,14 +9,13 @@
   * Wrap-up
 * [Chapter 3 - Audio](010-chapter-01.md)
   * Introduction
-  * Doorbell Cameras
-  * Surveillance Cameras
 * [Chapter 4 - Networks](010-chapter-01.md)
   * Introduction
   * Resources
 * [Chapter 5 - Cameras](050-chapter-05.md)
   * Introduction
-  * Resources
+  * Doorbell Cameras
+  * Surveillance Cameras
 * [Chapter 6 - Lighting](060-chapter-06.md)
   * Introduction
   * Internal Lighting
