@@ -18,5 +18,8 @@
 * [Chapter 6 - Lighting](060-chapter-06.md)
   * Introduction
   * Resources
+* [Chapter 7 - Garage](070-chapter-07.md)
+  * Introduction
+  * Resources
 
 [Next >>](010-chapter-01.md)
