@@ -12,7 +12,7 @@
 * [Chapter 4 - Networks](010-chapter-01.md)
   * Introduction
   * Resources
-* [Chapter 5 - Surveillance](010-chapter-01.md)
+* [Chapter 5 - Cameras](050-chapter-05.md)
   * Introduction
   * Resources
 * [Chapter 6 - Lighting](060-chapter-06.md)
