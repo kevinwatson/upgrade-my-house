@@ -40,6 +40,24 @@ The VLC Player https://www.videolan.org app can play back videos at a slow frame
 
 More info with screenshots can be found here: https://superuser.com/a/782409
 
+## Wall of Video
+
+Have you ever watched a movie or TV show where there is a wall of screens? Have you ever wanted to create your own? While I wouldn't recommend watching a movie for the first time in this format, for those movies and TV shows you've seen once or a dozen times but want to have playing on a loop in the background, it can be satisfying option to let some of your favorite movies and TV shows play on an extra computer monitor or TV in your house.
+
+### Setup
+
+A DVD player attached to your computer will only play one video stream at a time, but there are other options. You could open multiple browsers on your computer to play different videos or you could rip movies and play them from your hard drive.
+
+On macOS, QuickTime Player is a great option. It hides its controls and title bar while a video is playing, and has a Loop option to replay the video once it reaches the end. Multiple players can be aligned to fill the entire screen.
+
+By default, each player will play sound when you start the video. You'll want to mute either all of the players or all but one of them.
+
+### Playback
+
+Once you've picked your videos and arranged the player windows you can let it run in the background. You can also enable the sound on one player to enjoy the full movie experience while also watching scenes from other favorites.
+
+![Wall of Video](images/wall-of-video-1.png)
+
 ## Streaming
 
 Years ago movie lovers collected VHS tapes, Videodiscs, DVDs, Blu-Rays and other medium and proudly display them on shelves next to their TVs. With the invention of streaming platforms, most people have stopped buying medium and started subscribing to all you can eat offerings that are available at the click of a button. The convenience of readily-available movies and TV shows and high-speed Internet to the home has largely stopped some from purchasing discs.

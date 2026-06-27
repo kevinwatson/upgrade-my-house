@@ -5,6 +5,7 @@
 * [Chapter 2 - Movies and TV](020-chapter-02.md)
   * Introduction
   * Movies as Framed Art
+  * Wall of Video
   * Streaming
   * Wrap-up
 * [Chapter 3 - Audio](010-chapter-01.md)
